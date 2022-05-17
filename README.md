@@ -1,6 +1,6 @@
 # Video-Dense-Captioning
 
-Same process as the baseline model: 
+Baseline model: 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dense-captioning-events-in-videos-sysu/dense-video-captioning-on-activitynet)](https://paperswithcode.com/sota/dense-video-captioning-on-activitynet?p=dense-captioning-events-in-videos-sysu)
 
 The following setup is also outlined in the ipynb 
