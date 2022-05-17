@@ -1,5 +1,5 @@
 # Video-Dense-Captioning
-# Dense Video Captioning
+
 Same process as the baseline model: 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dense-captioning-events-in-videos-sysu/dense-video-captioning-on-activitynet)](https://paperswithcode.com/sota/dense-video-captioning-on-activitynet?p=dense-captioning-events-in-videos-sysu)
 
